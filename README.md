@@ -2,5 +2,4 @@
 Assignment 3 - Basic HTML
 =======
 >Welcome *Pradeeep Rao Veeramaneni* 
-Hosted at< https://44-563-web-apps-f22.github.io/44563-webapps-assignment-3-pradeepveeramaneni/>
->>>>>>> d9acaadf3ab20ba85b9d8210909f2152bb2a794f
+Hosted at<https://44-563-web-apps-f22.github.io/44563-webapps-assignment-3-pradeepveeramaneni/>
