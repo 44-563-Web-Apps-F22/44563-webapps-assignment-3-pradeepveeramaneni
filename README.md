@@ -1,4 +1,4 @@
 # WebApps-F22-Assignment-3
 Assignment 3 - Basic HTML
 >Welcome *Pradeeep Rao Veeramaneni* 
-Hosted at<https://github.com/44-563-Web-Apps-F22/44563-webapps-assignment-3-pradeepveeramaneni.git>
+Hosted at<file:///C:/Users/s550131/Desktop/44563-webapps-assignment-3-pradeepveeramaneni/index.html>
